@@ -1,5 +1,7 @@
 # Omnifood Project
 
+You can visit the web page Omnifood <a href="https://omnifood-fismael21.netlify.app" target="_blank">here.<a/>
+
 ## Desktop View
 ![img-1](https://github.com/fismael21/Omnifood-Optimizations/blob/master/img/readme/img-1.png)
 ![img-2](https://github.com/fismael21/Omnifood-Optimizations/blob/master/img/readme/img-2.png)
