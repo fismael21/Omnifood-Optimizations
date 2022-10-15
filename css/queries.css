@@ -129,7 +129,7 @@
     justify-content: center;
     transition: all 0.5s ease-in;
 
-    /*Hide the navegation*/
+    /*Hide the navigation*/
     opacity: 0;
     pointer-events: none;
     visibility: hidden;

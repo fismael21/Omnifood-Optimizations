@@ -14,7 +14,7 @@
   height: 2.2rem;
 }
 
-/*Navegation*/
+/*Navigation*/
 .main-nav-list {
   list-style: none;
   display: flex;
@@ -68,7 +68,7 @@
   display: none;
 }
 
-/*Sticky navegation*/
+/*Sticky navigation*/
 .sticky .header {
   position: fixed;
   top: 0;
@@ -145,7 +145,7 @@
   width: 100%;
 }
 
-/*--Feautured section--*/
+/*--Featured section--*/
 
 .section-featured {
   padding: 4.8rem 0 3.2rem 0;
